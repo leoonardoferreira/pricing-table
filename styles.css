@@ -25,7 +25,7 @@ body {
     var(--page-background) 100%
     );
     background-repeat: no-repeat;
-    padding: 6.25rem;
+    padding: auto;
 }
 
 h1 {
